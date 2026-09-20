@@ -60,6 +60,8 @@ pip install transformers==5.0.0rc0 omegaconf accelerate h5py
 
 Our processed RoboTwin 2.0 dataset is available on ModelScope. Search for **`LiLa-WAM_RoboTwin2.0_50_task`** on [ModelScope](https://www.modelscope.cn) to download.
 
+For **LIBERO**, we provide the dataset converted to **HDF5** format. Download it from [Libero](https://modelscope.cn/models/yangfan97/LiLa-WAM_Libero) on ModelScope.
+
 LiLa-WAM uses the frozen **DINOv3 ViT-L/16** encoder:
 
 - Model: `dinov3-vitl16-pretrain-lvd1689m`
